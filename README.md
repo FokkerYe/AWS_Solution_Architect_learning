@@ -39,15 +39,11 @@ IAM policies can be assigned to either IAM users or IAM groups. Policies are typ
 }
 
 
-IAM USER
-IAM =Identity and Access Management, Global Service
-Root account=> Created by Default
-User,Groups
-User can belong to Multiople Groups.
+IAM USER = Identity and Access Management, Global Service, Root account => Created by Default
 
-IAM POLICIES
-User or Groups can be assigned
-Define the permissions of the users
+User, Groups => User can belong to Multiple Groups.
+
+IAM POLICIES => User or Groups can be assigned to define the permissions of the users.
 
 
 
