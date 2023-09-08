@@ -21,7 +21,10 @@ IAM policies can be assigned to either IAM users or IAM groups. Policies are typ
 
 **Example IAM Policy JSON:**
 
-```json
+
+
+
+```
 {
   "Version": "2012-10-17",
   "Statement": [
@@ -37,6 +40,8 @@ IAM policies can be assigned to either IAM users or IAM groups. Policies are typ
     }
   ]
 }
+
+```
 
 
 IAM USER
